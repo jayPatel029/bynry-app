@@ -10,7 +10,7 @@ Welcome to the Flutter Bynry App! This application allows users to login/registe
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/jayPatel029/bynry-app
+https://github.com/jayPatel029/bynry-app.git
 ```
 
 **Step 2:**
